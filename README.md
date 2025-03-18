@@ -58,7 +58,7 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://space.bilibili.com/1140831443"><img src="https://img.shields.io/badge/哔哩哔哩-真的是小树-pink?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/1140831443"><img src="https://img.shields.io/badge/哔哩哔哩-禾秫子-pink?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=shu-shu-1" />
 </p>
