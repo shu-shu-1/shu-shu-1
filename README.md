@@ -46,7 +46,13 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=shu-shu-1&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=shu-shu-1/Xiaoshu-Wallpaper,shu-shu-1/shu-shu-1.github.io,shu-shu-1/tkintertools-zh,shu-shu-1/shu-shu-1,shu-shu-1/yuanshen,shu-shu-1/Fucking-Code&type=Date&theme=dark" />
+<a href="https://www.star-history.com/#shu-shu-1/Little-Tree-Wallpaper&shu-shu-1/Little-Tree-Wallpaper-Next-Flet&shu-shu-1/Video-Compressor&Little-Tree-Studio/MineLauncher&shu-shu-1/shu-shu-1.github.io&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=shu-shu-1/Little-Tree-Wallpaper,shu-shu-1/Little-Tree-Wallpaper-Next-Flet,shu-shu-1/Video-Compressor,Little-Tree-Studio/MineLauncher,shu-shu-1/shu-shu-1.github.io&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=shu-shu-1/Little-Tree-Wallpaper,shu-shu-1/Little-Tree-Wallpaper-Next-Flet,shu-shu-1/Video-Compressor,Little-Tree-Studio/MineLauncher,shu-shu-1/shu-shu-1.github.io&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=shu-shu-1/Little-Tree-Wallpaper,shu-shu-1/Little-Tree-Wallpaper-Next-Flet,shu-shu-1/Video-Compressor,Little-Tree-Studio/MineLauncher,shu-shu-1/shu-shu-1.github.io&type=Date" />
+ </picture>
+</a>
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
